@@ -1,5 +1,4 @@
-# rift_network
-## Welcome to GitHub Pages
+# Rift Network
 
 You can use the [editor on GitHub](https://github.com/RageBaneblade/rift_network/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
